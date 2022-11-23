@@ -21,6 +21,7 @@ package loopsConcepts;
 					}
 				}while(assumption != answer);
 				System.out.println("The number is Correct");
+				System.out.println("learning");
 				
 				
 			}
